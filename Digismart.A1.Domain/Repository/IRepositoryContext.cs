@@ -1,4 +1,5 @@
 ﻿using Digismart.A1.Domain.Model;
+using Digismart.A1.Infrastructure.Common;
 using Digismart.A1.Infrastructure.Transaction;
 using System;
 

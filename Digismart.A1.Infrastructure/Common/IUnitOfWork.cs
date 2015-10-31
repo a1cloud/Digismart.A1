@@ -1,5 +1,5 @@
 ﻿
-namespace Digismart.A1.Infrastructure.Transaction
+namespace Digismart.A1.Infrastructure.Common
 {
     /// <summary>
     /// 表示所有集成于该接口的类型都是Unit Of Work的一种实现。

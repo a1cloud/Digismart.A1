@@ -1,4 +1,6 @@
 ﻿
+using Digismart.A1.Infrastructure.Common;
+
 namespace Digismart.A1.Infrastructure.Transaction
 {
     public static class TransactionCoordinatorFactory

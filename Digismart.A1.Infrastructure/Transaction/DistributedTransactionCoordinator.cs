@@ -1,4 +1,5 @@
-﻿using System.Transactions;
+﻿using Digismart.A1.Infrastructure.Common;
+using System.Transactions;
 
 namespace Digismart.A1.Infrastructure.Transaction
 {
